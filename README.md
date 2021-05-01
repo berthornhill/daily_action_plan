@@ -43,7 +43,7 @@
 
 ---
 
-## 04/30/20
+## 05/01/20
 
 ---
 
@@ -51,7 +51,7 @@
 
 - Code Academy, Internship; Due May 9
 - <s>Submit video for Embark application second step</s>
-- <s>SalesForce HackerRank</s>
+- SalesForce HackerRank - practiced. must take by EOD 5/1
 
 ### AZMediquip Workd
 
