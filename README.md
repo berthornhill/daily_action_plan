@@ -28,12 +28,30 @@
 ### Review JS Materials
 
 - <s>Meet with Kenny</s>
-- Adjust resume
-- Adjust LinkedIn
+- <s>Adjust resume</s>
+- <s>Adjust LinkedIn</s>
 
 ### Complete/submit applications from Partnerships
 
 - Code Academy, Internship; Due May 9
+
+### AZMediquip Workd
+
+- Have local environment running
+- Transfer and migrate DB
+- Begin editing, time permitting.
+
+---
+
+## 04/30/20
+
+---
+
+### Complete/submit applications
+
+- Code Academy, Internship; Due May 9
+- <s>Submit video for Embark application second step</s>
+- <s>SalesForce HackerRank</s>
 
 ### AZMediquip Workd
 
