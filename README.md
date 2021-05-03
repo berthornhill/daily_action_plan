@@ -60,3 +60,26 @@
 - Begin editing, time permitting.
 
 ---
+
+---
+
+## 05/03/20
+
+---
+
+### Complete/submit applications
+
+- 10 applications
+- SalesForce HackerRank - practiced. must take by EOD 5/1
+
+### AZMediquip Workd
+
+- Have local environment running
+- Transfer and migrate DB
+- Begin editing, time permitting.
+
+---
+
+### DS&A
+
+- Review BTFS
