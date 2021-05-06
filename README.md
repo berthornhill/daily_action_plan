@@ -83,3 +83,22 @@
 ### DS&A
 
 - Review BTFS
+
+## 05/05/20
+
+---
+
+### Complete/submit applications
+
+- 10 applications
+- outreach to LynxDx
+
+### AZMediquip Workd
+
+- edited, and sent for review.
+
+---
+
+### DS&A
+
+- Review BTFS
